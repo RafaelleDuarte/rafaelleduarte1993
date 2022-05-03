@@ -1,5 +1,5 @@
 <div id=header align="center">
-  <img src="https://br.pinterest.com/pin/863987509773612024/" width="100">
+  <img src="https://br.pinterest.com/pin/863987509773612024/" width="100"/>
   </div>
 <!---
 rafaelleduarte1993/rafaelleduarte1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
